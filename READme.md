@@ -5,4 +5,5 @@
 
 > 🌝 Thanks to this community, I have mastered the basic skills of layout and design.
 
-This funny project I implemented in a step-by-step tutorial. If you resize your screen you can see "the night comes" 😅
+This [funny project](https://mari-devop.github.io/building_project/) I implemented in a step-by-step tutorial. If you resize your screen you can see "the night comes" 😅
+
